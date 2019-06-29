@@ -1,7 +1,7 @@
 # salaryprediction
 Salary Prediction Project (Python)
 
-<p>The goal of this project is to be able to predict a salary based off certain job related characteristics. The original feature input file consists of the following fields:<\p>
+The goal of this project is to be able to predict a salary based off certain job related characteristics. The original feature input file consists of the following fields:
 
 •	Jobid                    
 •	Companyid             

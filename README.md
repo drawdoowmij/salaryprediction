@@ -9,6 +9,7 @@ The goal of this project is to be able to predict a salary based off certain job
 •	Degree – values are Doctoral, Masters, Bachelors, High School, or None             
 •	Major – values are Biology, Business, Chemistry, Computer Science, Engineering, Literature, Math, Physics, or None                 
 •	Industry– values are Auto, Education, Finance, Health, Oil, Service, or Web
+
 •	YearsExperience – number of years in profession 
 •	MilesFromMetropolis – number of miles from major metropolis 
 
